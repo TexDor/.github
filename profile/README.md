@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Welcome to DextTor organization page.
+Welcome to the DextTor organization page.
